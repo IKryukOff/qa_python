@@ -8,4 +8,5 @@
 8. test_get_books_for_children_book_is_for_children: проверяет, что возвращаются только доступные детям книги.
 9. test_add_book_in_favorites: проверяет добавление книги в избранное.
 10. test_add_book_in_favorites_not_exist: проверяет, что нельзя добавить несуществующую книгу в избранное.
-11. test_delete_book_from_favorites: проверяет возможность удаления книги из избранного
+11. test_get_list_of_favorites_books: проверяет возврат списка избранных книг
+12. test_delete_book_from_favorites: проверяет возможность удаления книги из избранного
